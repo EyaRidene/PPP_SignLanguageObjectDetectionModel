@@ -40,14 +40,6 @@ Our goal is to leverage the capabilities of Mediapipe to accurately detect and i
 
 4. Follow the instructions within the notebook to experience real-time Sign Language gesture recognition.
 
-## Dependencies
-
-Ensure that you have the required dependencies installed. You can install them using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Contribution
 
 Feel free to contribute, provide feedback, or report issues. We welcome collaboration and look forward to making this project even more impactful with the help of the open-source community.
