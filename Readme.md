@@ -20,7 +20,7 @@ Our goal is to leverage the capabilities of Mediapipe to accurately detect and i
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/sign-language-object-detection.git
+   git clone https://github.com/EyaRidene/PPP_SignLanguageObjectDetectionModel.git
 
    ```
 
@@ -43,6 +43,7 @@ Our goal is to leverage the capabilities of Mediapipe to accurately detect and i
 ## Dependencies
 
 Ensure that you have the required dependencies installed. You can install them using:
+
 ```bash
 pip install -r requirements.txt
 
@@ -51,3 +52,4 @@ pip install -r requirements.txt
 Feel free to contribute, provide feedback, or report issues. We welcome collaboration and look forward to making this project even more impactful with the help of the open-source community.
 
 Happy coding!
+```
