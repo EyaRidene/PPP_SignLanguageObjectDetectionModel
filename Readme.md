@@ -46,10 +46,14 @@ Ensure that you have the required dependencies installed. You can install them u
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Contribution
 
 Feel free to contribute, provide feedback, or report issues. We welcome collaboration and look forward to making this project even more impactful with the help of the open-source community.
 
 Happy coding!
+
+```
+
 ```
